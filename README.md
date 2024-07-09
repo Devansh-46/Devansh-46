@@ -1,48 +1,46 @@
-# Hi, I'm Devansh Chaubey! 👋
+<h1 align="center">Hi 👋, I'm Devansh Chaubey</h1>
+<h3 align="center">CS student with leadership experience (Student Council President) and proficiency in secure software development. Eager to apply problem-solving skills and data structures & algorithms knowledge to contribute to Softwares,</h3>
 
-![Location](https://img.shields.io/badge/Location-Noida-blue)
-![GitHub followers](https://img.shields.io/github/followers/Devansh-46?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/DevanshChaubey8?style=social)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh-46&label=Profile%20views&color=b40e0e&style=flat" alt="devansh-46" /> </p>
 
-## About Me
-- 🌱 Currently learning: **Machine Learning**, **Python**
-- 💼 Aspiring **Machine Learning Engineer**
-- ✉️ Reach me at: [devansh.chaubey46@gmail.com](mailto:devansh.chaubey46@gmail.com)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devansh-46" alt="devansh-46" /></a> </p>
 
-## 🛠️ Skills & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+- 🔭 I’m currently working on **Neural Network**
 
-## 🚀 Projects
-### [Devansh-46](https://github.com/Devansh-46/Devansh-46)
-**Description**: Config files for my GitHub profile.  
-**Tech Stack**: Markdown
+- 🌱 I’m currently learning **Cloud Computing, Software Development**
 
-### [Tic Tac Toe Game](https://github.com/Devansh-46/tictactoe-)
-**Description**: A simple Tic-Tac-Toe game implemented in Python.  
-**Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+- 👯 I’m looking to collaborate on [Sentimental_Analysis_FoodOrdering](https://github.com/Devansh-46/Sentimental_Analysis_FoodOrdering)
 
-### [JetBrains Loan](https://github.com/Devansh-46/jetbrains-loan)
-**Description**: A Python project related to loan calculations or management.  
-**Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+- 😎 I have build a [BuddyAttendence System](https://github.com/Devansh-46/BuddyAttendence)
 
-### [News App](https://github.com/Devansh-46/News-app)
-**Description**: A Python app to fetch and display news articles.  
-**Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+- 👨‍💻 All of my projects are available at [https://devansh-portfolio.bss.design/](https://devansh-portfolio.bss.design/)
 
-### [Buddy Attendance](https://github.com/Devansh-46/BuddyAttendence)
-**Description**: An attendance management system implemented in Python.  
-**Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+- 💬 Ask me about **Machine Leaning, Data Science**
 
-### [Automate Mail](https://github.com/Devansh-46/AutomateMail)
-**Description**: A Python script to automate sending emails.  
-**Tech Stack**: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+- 📫 How to reach me **devansh,chaubey46@gmail.com**
 
-## 🌐 Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/DevanshChaubey8)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18a-gJCcRvCmT3UsAQgG-TnaZrCvhfFwA/view?usp=sharing](https://drive.google.com/file/d/18a-gJCcRvCmT3UsAQgG-TnaZrCvhfFwA/view?usp=sharing)
 
-## 🏆 Achievements
-- Completed various Python projects
-- Active contributor to open-source projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/devansh-chaubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="devansh-chaubey" height="30" width="40" /></a>
+<a href="https://dev.to/devansh46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devansh46" height="30" width="40" /></a>
+<a href="https://twitter.com/devanshchaubey8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devanshchaubey8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/devanshch-dc22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/devanshch-dc22" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/26300390/devansh-chaubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/26300390/devansh-chaubey" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/devanshchaubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/devanshchaubey" height="30" width="40" /></a>
+<a href="https://instagram.com/devansh._46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devansh._46" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/dv2216" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dv2216" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/devansh00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devansh00" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/devansh-46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devansh-46" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/devansh74099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devansh74099" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devansh-46&show_icons=true&theme=dark&locale=en&layout=compact" alt="devansh-46" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devansh-46&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="devansh-46" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-46&theme=dark" alt="devansh-46" /></p>

@@ -7,7 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=devansh-46&label=Profile%20views&color=b40e0e&style=flat" alt="devansh-46" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devansh-46" alt="devansh-46" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devansh-46&theme=github_dark" alt="devansh-46 profile summary" />
+</p>
 
 - 🔭 I’m currently building **NSAT** — a Flutter + Firebase aptitude-testing platform engineered for ~25,000 users
 
@@ -70,4 +72,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devansh-46&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="devansh-46" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-46&theme=dark" alt="devansh-46" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=devansh-46&theme=dark" alt="devansh-46" /></p>

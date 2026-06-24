@@ -59,6 +59,10 @@
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=devansh-46&theme=dark" alt="devansh-46" /></p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devansh-46&theme=dark&layout=compact&hide_border=true" alt="wakatime stats" />
+</p>
+
 <h3 align="center">📈 Contribution Activity</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devansh-46&theme=react-dark&hide_border=true&area=true&custom_title=Devansh's%20Contribution%20Graph" alt="activity graph" />
@@ -69,3 +73,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devansh-46/Devansh-46/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Devansh-46/Devansh-46/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+
+<h3 align="center">💭 Quote of the Day</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
+</p>
+
+<h3 align="center">😄 A Joke to Lighten Your Day</h3>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder" alt="jokes" />
+</p>
